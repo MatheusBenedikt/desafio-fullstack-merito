@@ -74,7 +74,7 @@ Isso sobe um PostgreSQL na porta `5433`, sobe o Backend automaticamente na porta
 ### 4. Inicie o frontend
 
 ```bash
-cd ../frontend
+cd frontend
 npm install
 npm run dev
 ```
